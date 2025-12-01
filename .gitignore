@@ -1,0 +1,14 @@
+# Environment variable files
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# FAISS index and metadata (optional)
+data/processed/faiss_index.bin
+data/processed/chunk_metadata.json
+
+# Streamlit cache
+.streamlit/

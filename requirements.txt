@@ -1,0 +1,5 @@
+streamlit
+faiss-cpu
+numpy
+huggingface-hub
+python-dotenv

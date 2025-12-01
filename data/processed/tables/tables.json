@@ -1,0 +1,326 @@
+[
+    {
+        "table_id": 1,
+        "summary": " |  | ",
+        "path": "data/processed/tables\\table_1.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 2,
+        "summary": "Text Figure 1. Qatar’s Diversification Progress and Challenges \nQatar has made limited progress in economic \n \nWhile Qatar’s infrastructure quality has improved \ndiversification. \nsignificantly… \n \nCapital Service Improvements 2/\nEconomic Diversification Index 1/\n(Percent, year on year, average for 1980-2019)\n(Index value)\nQatar\n12\n110\nGCC ex-Qatar\nEMs\n9\n100\nGlobal\ninter-quartile range\n6\n3\n90\n0\n80\nChina\nQatar\nKorea\nGCC ex-\nGlobal\nQatar\naverage\n00\n05\n10\n15\n20\n  \n \nThe state-driven growth model proves costly—more \n…its productivity growth has been subdued. \n \ndurable growth should come from the private sector. \n \nTFP Trend in Selected GCC Countries\nPublic Capital Spending and Non-hydro Output\n(Percent, average annual growth rate, 1974-2019)\n(Percent, yoy, in real terms)\n40\n60\n0\n-2\n20\n30\n-4\n0\n0\nCurrent PPPs relative to U.S.\n-6\nNon-hydrocarbon output\n-20\n-30\nConstant price\n-8\nPublic capital spending (right scale)\n-40\n-60\nKuwait\nQatar\nBahrain\nSaudi\n90\n95\n00\n05\n10\n15\n20\nArabia\n \n \nSources: Global Economic Diversification Index, Haver Analytics, Penn World Table (PWT), and IMF staff calculations.  \n1/ The index reflects output, fiscal revenue and export diversification. \n2/ Capital services at constant 2017 national prices from PWT. |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_2.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 3,
+        "summary": "Purchase stock\nOutput Prices\nWork backlogs\nPurchase quantity\nOutput\nPurchase prices\nNew orders\nDelivery times\nStaff costs\nEmployment\nInput costs\nText Figure 2. Real Sector Developments \nVisitor arrivals to Qatar have been strong… \n…lifting hotel occupancy to above pre-COVID trend. \n  \nMonthly Hotel Occupancy Rate\nMonthly Visitor Arrivals in Qatar by Origin\n(Percent)\n(Millions of persons)\n90\n0.8\n2015-19 average\nGCC\n80\nAsia\n0.6\n Europe\n70\nOther\n0.4\n60\n0.2\n50\n0\n40\n18\n19\n20\n21\n22\n23\n24\n20\n21\n22\n23\n24\n \nPMI suggests gradual strengthening of growth … \n…supported by a sustained increase in new business. \nPMI Components, August-December 2024\nReal Non-hydro GDP Growth and PMI 1/\n(50+ = expansion)\nReal NH GDP growth (percent, yoy)\n15\n80\n70\nPMI (right, 50+ = expansion)\n10\n70\n60\n5\n60\n50\n0\n50\n40\n-5\n40\n-10\n30\n17\n18\n19\n20\n21\n22\n23\n24\n \n \nSources: Haver and IMF staff calculations. \n1/ Quarterly real non-hydrocarbon GDP growth and monthly PMI. |  | ",
+        "path": "data/processed/tables\\table_3.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 4,
+        "summary": "Text Figure 4. Financial Conditions and Bank Credit \n…while credit growth rose in 2024. \nFinancial conditions tightened further in 2024 through \nSeptember… \nDomestic Bank Credit by Sector 2/\nQatar's Finanical Condition Index 1/\n(Percentage point contribution to total year on year growth)\n(Z score)\n20\nPublic Sector\nReal Estate\nNEER\nExternal factors\nServices\nTrade\nStock and real estate prices\nMonetary aggregates\nReal policy deposit rate\nMarket interest rate spread\nOther\nTotal\n15\n3\nSovereign risk premia\nCredit\n2\n10\n1\n5\n-1\n0\n-2\n-3\n-5\n15\n18\n21\n24\n20\n21\n22\n23\n24\n \n \nSources: S&P, and IMF staff calculations. \n1/ Up to September 2024. See the Selected Issues Paper “Financial Conditions and Growth-At-Risk for Qatar”. \n2/ Real estate also includes contractors. Other also includes consumption and industry. | ",
+        "path": "data/processed/tables\\table_4.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 5,
+        "summary": "Text Figure 5. Indicators of Hydrocarbon Exports and Capital Flows  \nHydrocarbon export values in 2024 through the third \n…while net portfolio inflows recovered from their trough \nquarter were below 2023 levels… \nin 2023 Q4 before falling in late-2024. \nQuarterly Exports of Hydrocarbon Products\nGCC and EM: EPFR Net Bond & Equity Inflows\n(QAR billion, NSA)\n(10 week rolling sum, % of asset under management)\nEM\n85\n10\n2023\nGCC ex-Qatar\n2024\nQatar\n5\n80\n0\n75\n-5\n70\n-10\n+/- 1 standard devisor around 2011-24 average \n65\n-15\nfor Qatar\n1\n2\n3\n4\n18\n19\n20\n21\n22\n23\n24\n \n \nSources: EPFR, Haver, and IMF staff calculations. | ",
+        "path": "data/processed/tables\\table_5.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 6,
+        "summary": "Text Figure 6. Bank-level Indicators of Profitability and Asset Quality 1/ \n(Percent, median and interquartile range) \nNet interest margin has remained strong, despite \nVariation in bank-level NPLs has also risen more recently, \nvariation among below-median banks having risen. \ntilted to the weaker side. \nNet Interest Margin\nNon-performing Loans\n9\n3\n6\n2\n3\n1\n0\n0\n07\n09\n11\n13\n15\n17\n19\n21\n23\n14\n16\n18\n20\n22\n24\n \n \nSources: S&P Capital IQ and IMF staff calculations. \n1/ Based on a subset of the banking system tracked by S&P Capital IQ. | ",
+        "path": "data/processed/tables\\table_6.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 7,
+        "summary": "Text Figure 8. Qatar’s LNG Contracts and Global LNG Supply Outlook \nQatar is renewing existing LNG contracts and striking \n \nGlobal natural gas supply is projected to increase \nnew ones as it is set to increase supply. \nsignificantly led by the US.   \n \nQatar's LNG Contracts by Destination\nGlobal LNG Capacity\n(Million tons per year)\n(Million tons per year)\n150\nQatar\nUSA\n800\nMiddle East\nAsia\nAustralia\nRussia\nEurope\nAsia (new)\nROW\n600\nEurope (new)\nSupply\n100\n400\n50\n200\n0\n0\n2008\n2012\n2016\n2020\n2024\n2028\n2032\n2036\n2023\n2025\n2027\n2029\n2031\n2033\n2035\n \n \nSources: Bloomberg and IMF staff calculations. |  |  | ",
+        "path": "data/processed/tables\\table_7.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 8,
+        "summary": "Text Figure 9. Projected Non-hydrocarbon \nPrimary Deficits and PIH Benchmark 1/ \n(Percent of non-hydrocarbon GDP) \n50\nPIH benchmark central estimate and one \nstandard deviation range\n40\n30\nProjected non-hydrocarbon primary deficit\n20\n10\n23\n24\n25\n26\n27\n28\n29\n \nSource: IMF staff calculations. \n1/ PIH benchmark is calculated to ensure constant real per-\ncapita income. Long-term parameters: Inflation and non-\nhydrocarbon real output growth = 2 percent, population \ngrowth = 0.75 percent, natural gas production volume = \nconstant after NF expansion in 2030, nominal hydrocarbon \nprice growth = 2 percent, nominal returns on QIA assets and \ndiscount rate = both 4.75 percent. Standard deviation range \nis based on historical oil price performance to capture the \nsensitivity of the PIH estimates to oil price volatility, thus \nenhancing robustness of the estimates. | ",
+        "path": "data/processed/tables\\table_8.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 9,
+        "summary": "Text Figure 10. Estimated Tax Revenue Gap 1/\n(Percent of total or non-hydrocarbon GDP)\n15\n10\n5\n0\nQatar\nGCC\nEMDE\nAE\nSources: Haver and IMF staff.\n1/ Estimated potential minus actual in 2019 or latest. \nNon-hydrocarbon tax revenue and non-hydrocarbon \nGDP for hydrocarbon producing countries. Stochastic \nFrontier Analysis was applied to a panel of 146 countries \nfor 2000–19. Macroeconomic determinants of tax \npotential include economic performance, trade \nopenness, capital mobility, economic diversification, and \ninstitutions. As an important caveat, the efficient amount \nof tax revenue to GDP a country can raise could differ \nfrom that suggested by the frontier. |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_9.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 10,
+        "summary": "Text Figure 12. Wage Bills 1/\n(Percent of total GDP or non-hydrocarbon GDP, 2023)\n20\nPercent of GDP\nPercent of non-hydrocarbon GDP\n15\n10\n5\n0\n\"Fuel\" exporting\nQatar\nGCC ex Qatar\nEMDE\nSources:\nIMF World Economic Outlook and staff calculations. \n1/ Emerging markets and developing economies (EMDE) whose \nmain source of export earnings are fuel products per WEO \nclassification. |  |  | ",
+        "path": "data/processed/tables\\table_10.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 11,
+        "summary": "Box 1. Estimating Fiscal Multipliers in Qatar and the GCC (concluded) \n \n1 This box summarizes key findings of the Selected Issues Paper “Estimating Fiscal Multiplier for Qatar.” \n2  These interpretations are suggestive, as the model does not control for other potential determinants and the rolling \napproach further reduces the sample size. |  |  | ",
+        "path": "data/processed/tables\\table_11.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 12,
+        "summary": "Text Figure 13. Indicators of Bank Balance Sheets \nGovernment deposits rose further in 2024 while bank \nBank holdings of public sector assets is high in Qatar. \nlending to the public sector was broadly stable. \nBank Holdings of Public Sector Assets\nPublic Sector Lending and Deposits \n(Percent of total assets, end-2023)\n(Percent of total lending or total deposits)\n40\n50\nCentral Government\nLocal Government\nPublic sector deposits\nSOEs\nCentral bank\nPublic sector lending\n30\n40\n20\n30\n10\n20\n0\n18\n19\n20\n21\n22\n23\n24\nKWT\nOMN\nQAT\nUAE\nWorld\nEM\nSources: Haver, IMF Public Sector-Bank Nexus Tool, and IMF staff calculations. |  |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_12.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 13,
+        "summary": "Text Figure 14. Indicators of Lending and Deposit Interest Rates \n(Percent) \nBanks’ lending interest rates generally moved with the \n…which has not been raised fully with the policy deposit \npolicy lending rate... \nrate, narrowing the policy interest rate corridor. \nAggregate and Bank-level Lending Rates 1/\nPolicy Lending and Policy Deposit Rates\n(Percent)\n(Percent)\n8\nSpread (ppt)\nAggregate bank lending rate index \n9\n(less than 3 yrs)\nLending rate\n6\nBank-level min-max range\nDeposit rate\n6\n4\n3\n2\nPolicy lending rate\n0\n0\n18\n19\n20\n21\n22\n23\n06\n08\n10\n12\n14\n16\n18\n20\n22\n24\nThe spread between banks’ average 6-month deposit \n…partly related to ample hydrocarbon liquidity. \nrates and the policy deposit rate has narrowed… \nBank Deposit to Policy Rate Spread\nOil Prices and Bank-Policy Deposit Rate Spread\n(Percentage point)\n-30\n3\n0\n2\n30\n60\n1\n90\n0\n120\n-1\n150\n-2\n06\n08\n10\n12\n14\n16\n18\n20\n22\n24\n06\n08\n10\n12\n14\n16\n18\n20\n22\n24\nSources: Fitch, Haver, and IMF staff calculations. \n1/ Bank level estiamtes are interest income on all loans in percent of sum of stage 1 and stage 2 loans. |  |  |  | ",
+        "path": "data/processed/tables\\table_13.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 14,
+        "summary": "Text Figure 15. Economic Complexity Index, 2019 1/\n(Index value between -1.64 and 2.47 )\n0.4\n0.2\n0.0\n-0.2\nQatar\nGlobal median\nGCC\nSelected EMs\nSources: The Atlas of Economic Complexity and IMF staff \ncalculations.  \n1/ Selected EMs = Brazil, Chile, China, Colombia, Costa Rica, \nCroatia, Czechia, Egypt, Hungary, India, Indonesia, Kazakhstan, \nMalaysia, Mexico, Morocco, Nigeria, Peru, the Philippines, Poland, \nRussia, South Africa, Thailand, and Türkiye. |  |  | ",
+        "path": "data/processed/tables\\table_14.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 15,
+        "summary": "Text Figure 17. Indicators of Human Capital \nThere is room to boost the share of skilled and highly \n…and further educational attainment. \nskilled expatriate workers… \nPISA Test Scores\nExpatriate Workers by Skill\n(OECD period average = 100)\n(Percent of total, 2006, 2013, 2020)\nUnskilled       Semi skilled\n    Skilled   \n  Highly  \n60\n100\nskilled\n90\n40\n80\n20\nOECD\n70\nQatar\n60\n0\n2006\n2009\n2012\n2015\n2018\n2022\n06 13 20\n06 13 20\n06 13 20\n06 13 20\nSources: Haver, Qatar Economic Outlook 2020-23 (PSA), and IMF staff calculations. |  | ",
+        "path": "data/processed/tables\\table_15.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 16,
+        "summary": "02468\nText Figure 18. Innovation, Economic Complexity and Property Rights \nPatent applications rose rapidly in Qatar… \n…which can be boosted further by greater spending \nefficiency and more allocation… \nTotal Patent Applications\nR&D Spending and Economic Complexity\n(Per one million population)\n(Economic complexity index, 2021)\n500\n3\nGCC ex-Qatar\nGCC ex Qatar\n400\nQatar\n2\nQatar\n1\n300\nWorld\n0\n200\n-1\n100\n-2\n0.05\n0.5\n5\n0\n1980\n1990\n2000\n2010\n2020\nR&D spending (%GDP, log, 2020 or 2021)\n…and improving certain areas of property rights, such as trade mark protection. \nIndicators of International Property Rights\n(Between 0 to 10)\nRelatvie to GCC ex-QAT\nQAT\n10\n-2\nOverall\nPolitical\nRule Of Law Access To\nControl Of\nPerception\nProperty\nPatent\nTrademark\nStability\nFinancing\nCorruption\nOf IP\nRights\nProtection\nProtection\nProtection\nProtection\nSources: The World Intellectual Property Organization, Property Rights Alliance, and IMF staff. |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_16.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 17,
+        "summary": "Text Figure 19. FDI Commitments and Competitiveness \nFDI commitments in non-hydrocarbon sectors \n…but the shares of those into high value-added sectors \nprogressively declined… \nincreased. \nNon-hydrocarbon by Sector\nAnnual FDI Commitments\n(Percent of total non-hydrocarbon)\n(US$ billions, non-hydrocarbon excludes \"coal, oil, and gas\")\n40\n15\nFood\nChemicals\nOverall\nIT, software\nTourism\nNon-hydrocarbon\n30\n10\n5\n0\n0\n2003-09\n2010-16\n2017-23\n2003-09\n2010-16\n2017-23\nQatar’s competitiveness is strong, compared to \n…and can benefit from a more open and enabling \nregional peers… \nbusiness environment, with better access to finance. \nIMD Competitiveness Overall Score 1/\nSME Borrowing from Commercial Banks\n(Highest score = 100)\n(Percent of total, 2021)\n100\n30\n90\n20\n80\n70\nQatar\n10\nQatar\nGCC range\n60\n50\n0\n2020\n2021\n2022\n2023\n2024\n45 emerging and developing economies\nSources: Financial Access Survey, FDI Markets, IMD, and IMF staff calculations. \n1/ IMD data are not available for Oman. |  |  | Communications\n20\n10 | ",
+        "path": "data/processed/tables\\table_17.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 18,
+        "summary": "Text Figure 20. Enhanced Digital Access \nIndex (EDAI) \n(Index, higher = better) \n1.0\n0.9\n0.8\n0.7\n0.6\n0.5\n0.4\nSources: “Digital Transformation in the GCC \nEconomies” (IMF, forthcoming), and IMF staff \ncalculations. |  |  |  | ",
+        "path": "data/processed/tables\\table_18.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 19,
+        "summary": "Text Figure 21. Indicators of Renewable Power 1/ \n(Percent of power generated from all sources or total capacity) \n60\nGenerated\nCapacity installed\n40\nMedium-term target\n20\n0\nBahrain\nKuwait\nOman\nQatar\nSaudi Arabia\nUnited Arab\nEmirates\n \nSource: Bloomberg, Energy institute, Middle East Institute (2023), International Renewable Energy Agency (IRENA), \nand IMF staff calculations.  \n1/ Renewable power generated and capacity installed in 2023. Medium-term target years are 2030 except 2035 for \nBahrain and 2050 for the United Arab Emirates. Renewable capacity installed is in percent of total capacity. |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_19.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 20,
+        "summary": "Box 2. AI in Qatar: Opportunities and Potential Economic Impact1 \nQatar has been actively preparing for embracing AI. In 2019, Qatar released its first National AI Strategy, \nfocusing on education, data access, employment, business, research, and ethics. The AI Committee, \nestablished in 2021, coordinates efforts from ministries, universities, and financial institutions. A $2.5 billion \nAI investment package was announced in May 2024. AI-related research has also surged. Overall, Qatar is \nclose to AEs in its AI readiness (text chart).  \nIncreasing AI adoption in Qatar is expected to bring more benefits than risks to the labor market. \nCurrently, about 37 percent of the labor force in Qatar is exposed to AI (18 ppts increase over a decade), \ncomparable to the EM average but lower than the AE average (58 percent). Building on IMF (2023)2 staff \nanalysis suggests that about 75 percent of the high AI exposure jobs in Qatar have high \n“complementarity”—workers in those jobs are more likely to benefit from AI-driven productivity gains than \nbeing replaced. Qatar’s labor market opportunity-to-risk ratio from AI exposure is significantly higher than \nEM or AE averages. |  |  |  |  |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_20.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 21,
+        "summary": "1\nBox 2. AI in Qatar: Opportunities and Potential Economic Impact (concluded) \nThe private sector has played an important role in shifting Qatar’s labor market toward a more \nfavorable position for AI adoption. Private sector employment has grown by around 27 percent over the \nlast decade, but the number of technicians and professionals—two job categories with high AI exposure and \ncomplementarity—has increased by over 90 percent, significantly enhancing the country's potential to \nbenefit from AI adoption. \n“Enabling clusters” identified in NDS3 are likely to harness AI-driven productivity gains. By matching \nthe occupational composition of these clusters (IT & digital, financial services, and education) in Qatar with \nthe AI exposure-complementarity matrix, staff finds that these sectors concentrate in the high AI exposure \nand complementarity quadrant. On the other hand, the “growth clusters” identified in NDS3—\nmanufacturing, logistics, and tourism—tend to have more limited AI exposure.  \nScenario analysis points to potential gains in labor productivity from AI penetration in Qatar. Staff \nanalysis suggests that, under an optimistic scenario where successful reforms to enhance human capital, \ninnovation and private sector growth allow a more rapid increase in the share of jobs exposed to AI and \nfaster AI adoption (than under the baseline), labor productivity growth could be lifted by an average of 1 ppt \nannually (above the baseline) over the medium term. \n \nEconomic Impacts.” \n2 Pizzinelli et al. 2023, \"Labor Market Exposure to AI: Cross-country Differences and Distributional Implications\" |  |  |  |  | ",
+        "path": "data/processed/tables\\table_21.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 22,
+        "summary": "Figure 1. Qatar: Real Sector Developments \n \n…as construction contracted and trade, transportation \nNon-hydrocarbon activity weakened in 2023…  \nand real estate weakened.  \n \nContributions to Total Output Growth\nContributions to Non-hydrocarbon Output Growth\n(Percentage point)\n(Percentage point)\n Manufacturing\n Constructuion\nNon-hydrocarbon\n Trade\n Transportation\n10\n10\n ICT\n Finance\nHydrocarbon\n Real estate\n Public admin.\nReal GDP Growth\n5\n5\n0\n0\n-5\n-5\n16\n17\n18\n19\n20\n21\n22\n23\n \n16\n17\n18\n19\n20\n21\n22\n23\n \n \n…while manufacturing production is showing signs of \nReal estate prices remained weak albeit having \n \ntroughing. \nstarted to recover more recently…   \n \nReal Estate Prices\nIndustrial Production, Manufacturing\n(2010 to date average = 100)\n(Percent, year on year)\n10\n160\n5\n140\n0\n120\n-5\n100\n6-month moving average\n-10\n80\n18\n19\n20\n21\n22\n23\n24\n16\n18\n20\n22\n24\n  \n \n…as labor force participation recovered to pre-COVID \nStrong population and employment growth support \n \nlevel. \ndomestic demand…  \n \nPopulation and Employment\nLabor Force Participation Rate\n(In million)\n(Percent, 15 years and older)\n4\n90\nPopulation\nEmployed\n89\n3\n88\n2\n87\n86\n1\n14\n16\n18\n20\n22\n24\n14\n16\n18\n20\n22\n24\n \n \n \nSources: Haver Analytics, and IMF staff calculations. |  |  | ",
+        "path": "data/processed/tables\\table_22.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 23,
+        "summary": "Figure 2. Qatar: Inflation and Monetary Policy Developments \nPolicy rates broadly followed the US Fed, with the \nThe domestic policy deposit rate has mostly moved less \nlending-deposit policy rate corridor having narrowed. \nthan the US Fed Funds rate through the cycles.  \nQatari and US Policy Rates\nQatari Policy Deposit Rate Spread to US Fed Funds\n(Percent)\n(Basis point)\n8\n100\nRepo\nLending\nDeposit\nUS Fed funds\n6\n75\n4\n50\n2\n25\n0\n0\n14\n16\n18\n20\n22\n24\n14\n16\n18\n20\n22\n24\nAs monetary policy has tightened in real terms.... \n…disinflation in non-tradables has continued...  \nReal Policy Interest Rates 1/\nNontradables Inflation\nBHR\n(Percent)\n(Percent)\nOMN\n12\nAugust 2024\n6\nQAT\nSAU\n8\n3\n4\n0\n0\n-3\n+/- one standard deviation around historical \naverage (December 2014 or earliest to date)\n-4\n-6\n21\n22\n23\n24\nOMN\nBHR\nQAT\nSAU\nUAE\nKWT\n…while tradables inflation has been steady. \nMoney growth edged up as monetary policy tightening \nstopped.    \nTradables Inflation\nMoney Supply\n(Percent)\n(Percent, year on year)\nBHR\n30\n12\nOMN\nQAT\n20\n8\nSAU\n10\n4\n0\n0\n-10\n-4\n14\n16\n18\n20\n22\n24\n21\n22\n23\n24\n \nSources: FocusEconomics, Haver Analytics, and IMF staff calculations. \n1/ Deflated by survey-based 12 month-ahead inflation expectations. |  | ",
+        "path": "data/processed/tables\\table_23.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 24,
+        "summary": "012345\nFigure 3. Qatar: External Sector Developments \nAfter appreciating for 2 years through end-2022, \n \n…while key hydrocarbon prices have declined. \neffective exchange rates have weakened.... \n \nEffective Exchange Rates\nOil and Natural Gas Price Indices\n(2014-15 average = 100, \"+\" = appreciation)\n(2010-12 = 100)\n130\n1500\n300\nNatural gas (Henry Hub)\nOil\nNEER\n120\nNatural gas (right, Dutch TTF)\nREER\n1000\n200\n110\n500\n100\n100\n90\n0\n0\n16\n18\n20\n22\n24\n16\n18\n20\n22\n24\n \nThe current account surplus moderated in 2023 amid \n \n… matched mostly by portfolio investment outflows.  \nlower hydrocarbon prices and export volume… \n \nCurrent Account Financing Components\nCurrent Account Components\n(Percent of GDP, inverted scale)\n(Percent of GDP)\n-80\n80\nDirect inv.\nPortfolio inv.\nTrade Balance\nServices\nOther inv.\nReserves\nIncome\nCurrent Transfers\nCapital acct.\nCurrent Acccount\nCurrent account\n-40\n40\n0\n0\n40\n-40\n16\n18\n20\n22\n16\n18\n20\n22\n \n \nExchange rate forwards have returned to around \nQCB reserves thus increased only moderately.  \n \nparity. \n \nCentral Bank International Reserves\nOne-month Forward Dollar-cross Exchange Rate\n(Percent deviation from spot exchange rate, \n40\n300\nPercent of GDP\nmonthly data)\nQAR\nPercent of short-term external debt (right)\n30\nSAR\n200\n20\nDepreciation\n100\n10\n0\n0\n-1\n16\n18\n20\n22\n \n06\n08\n10\n12\n14\n16\n18\n20\n22\n24\nSources: Bloomberg, Haver Analytics, IMF WEO, and IMF staff calculations. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_24.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 25,
+        "summary": "Figure 4. Qatar: Fiscal Sector Developments \nThe overall fiscal surplus moderated in 2023 … \n…as hydrocarbon revenue declined… \nCentral Government Fiscal Balance\nCentral Government Revenue\nRevenue\n(Percent of GDP)\n(Percent of GDP)\n50\nExpenditure\nLNG\nGRE dividends\n15\n50\nOverall balance (right)\nOil\nCIT (mainly QE)\n40\n10\nOther\n5\n30\n0\n0\n20\n-5\n10\n-10\n0\n-15\n-50\n16\n18\n20\n22\n16\n18\n20\n22\n…and expenditure rose… \n…even though wages are relatively low. \nCentral Government Expenditure\nWage Bill, 2000-22\n(Percent of GDP)\n(Percent of GDP)\n50\n20\nQatar\nGCC ex-Qatar\nCapital\nOther current\nWages\n40\nOECD\nEMEs\n15\n11\n30\n9\n11\n10\n9\n10\n8\n11\n8\n7\n10\n20\n11\n10\n8\n9\n9\n5\n8\n10\n19\n15\n13\n13\n12\n11\n10\n9\n0\n0\n00\n05\n10\n15\n20\n16\n18\n20\n22\nCentral government debt is moderate… \n…underpinning the tight sovereign risk premium. \nCentral Government Debt\nSovereign Credit Default Swap Spreads\n(Percent of GDP)\n(Basis points)\n80\n250\nDomestic\nQatar\nSaudi Arabia\nExternal\n60\n200\n150\n40\n100\n20\n50\n0\n0\n16\n18\n20\n22\n16\n18\n20\n22\n24\nSources: Bloomberg, Haver Analytics, and staff calculations. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_25.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 26,
+        "summary": "Public sector\nServices\nTrade\nReal estate\nConsumption\nloans\nContractors\nIndustry\nFigure 5. Qatar: Credit and Financial Sector Developments \nReal private sector credit growth picked up since late \n…while credit to the public sector remains the largest \n2023… \nshare of bank assets. \nBank Credit to Private Sector\nStock of Bank Domestic Credit by Borrower\n(Percent, year on year)\n(Percent of total)\n30\n40\nNominal\nReal\nOctober 2024\n30\n2019 average\n20\n20\n10\n0\n10\n0\n10\n12\n14\n16\n18\n20\n22\n24\nBank foreign liabilities remained elevated but \nBanks’ credit to non-hydro GDP gap is estimated to be \nmoderating… \nnegative in 2023. \nBank Foreign Assets and Liabilities\nCredit to GDP Gap 1/\n(Percent of total assets)\n(Percentage point difference from HP filter-based\n50\nForeign assets\ntrend)\n40\nForeign liabilities\n40\n20\n30\n20\n0\n10\n-20\n0\n05\n10\n15\n20\n05\n10\n15\n20\nChanges in maturity structure of cross-border bank \n…owing to a fall in other foreign liabilities more \nlending to Qatar has been mixed. \nrecently.  \nBank Foreign Liabilities\nBIS Reporting Bank Positions vis-a-vis Qatar\n(Percent of total liabilities)\n(Percent of total, by remaining maturity, \nNon-resident deposits\nall instruments)\n40\nup to 1 yr\n80\nOther foreign liabilities\n1-2 yrs\n+/-1 standard deviation around period average\n30\nOver 2 yrs\n60\n20\n40\n10\n20\n0\n0\n05\n10\n15\n20\n14\n16\n18\n20\n22\n24\nSources: Haver Analytics and IMF staff calculations. \n1/ Bank total credit and non-hydrocarbon GDP. |  |  |  | ",
+        "path": "data/processed/tables\\table_26.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 27,
+        "summary": "02468\n0123456\nFigure I. 1. Qatar: Economic Progress and Select NDS3 Targets 1/ \nNDS3 targets strong medium-term growth amid \n \n…focusing on manufacturing, logistics, and tourism, some of \nsignificant LNG expansion and intensified reforms… \nwhich have been strong post-2022 FIFA World Cup… \n \nContributions to Non-hydrocarbon Output Growth\nReal GDP Growth Outturns (NDS1-2) and NDS3 \n(Percent, year on year)\nHydrocarbon\nTargets\nManufacturing\n(Percent, year on year)\nHydrocarbon\nConstruction\n \n10\nTourism-related\nNon-hydriocarbon\nTransport (Logistics)\nICT, financial, education\nOther NH\n-1\n-2\nNDS1 (2011-16)\nNDS2 (2018-22)\n2023\nNDS1 (2011-16) NDS2 (2018-22) NDS3 (2024-30)\n  \n…supported by labor market transformation to boost \n \n…and accelerated progress in other important areas. \nprivate sector and knowledge sector-led growth… \n \nLatest Progress on Selected NDS3 Targets \nSkilled and Qatari Private Sector Employment\n(Share of total/Qatari employment)\n(Percent completion towards target; actual ranking vs. \n \n \n \n \n \n \n50\n \n \n \n \n \n \n \ntarget (rhs)) 2/ \n40\n100\nNDS3 targets\n \n30\n75\n20\n50\n10\nSkilled labor, total\n25\nPrivate & Mixed employment, Qatari\n0\n0\n80\n2011\n2013\n2015\n2017\n2019\n2021\n2023\n2030\nTourism\nRenewable\nLogistics\nGovernment\nManufacturing\ncapacity\n(re-exports)\nEffectiveness\n(CIP) 1/\nSources: Haver, NDS3, World Bank, UNIDO, and IMF staff calculations. \n1/ CIP = UN’s Competitive Industrial Performance index. \n2/ Government Effectiveness ranking includes 214 economies, UNCIP includes 153 economies. |  |  |  |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_27.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 28,
+        "summary": "Table I.1. Qatar: Thematic Evolution Across NDS1, NDS2, and NDS3 |  |  | ",
+        "path": "data/processed/tables\\table_28.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 29,
+        "summary": "Overall Assessment: Qatar’s external position moderated in 2023 and was assessed to be moderately \nstronger than the level implied by medium-term fundamentals and desirable policies. Tourism remained \nrobust and fiscal prudence was maintained, but hydrocarbon prices normalized and exports declined. In \n2024H1, tourism continued to be strong, but hydrocarbon export volume remained weaker than historical \nlevels, capping the current account surplus. In the medium term, hydrocarbon prices are projected to \nprogressively decline but export volume is set to increase owing to a significant ramp up in LNG production in \nthe pipeline. As domestic demand recovers, imports are expected to strengthen. On balance, the current \naccount gap is expected to continue narrowing. \nPotential Policy Responses: Structural reforms to enhance productivity and competitiveness, as envisaged \nunder NDS3 and the QNV 2030, would help raise private investment and reduce the saving-investment gap. \nFiscal prudence should be preserved, revenue diversification toward non-hydrocarbon sources accelerated, and \nspending reoriented to support the reform agenda. These factors will reduce the current gap and help align the \nexternal position in the medium term.",
+        "path": "data/processed/tables\\table_29.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 30,
+        "summary": "Assessment. Staff assesses the 2023 external position to be moderately stronger than the level implied by \nfundamentals and desirable policies, based on the External Balance Assessment (EBA-Lite) regression model \nthat yields a positive CA gap of 2.0 percent of GDP (text table). The REER regression model, which suggests \na negative CA gap (–4.7 percent of GDP), was deemed less suitable for Qatar given its currency peg. Qatar’s \nsignificant reliance on hydrocarbons complicates the application of standard external assessment \nmethodologies, given the large hydrocarbon price volatility in 2020–22 and more recent export volume \nvolatility. Some of the volatility is captured by the adjustments for cyclical contributions and conflicts \n(0.9 percent and -1.1 percent of GDP, respectively). As the current account surplus is projected to moderate \nfurther in 2024, the CA gap is expected to narrow, aligning the external position more with the level implied \nby fundamentals and desirable policies.     \nQatar: EBA-lite Model Results, 2023 1/\nCurrent Account Balace and Oil Prices\n120\n30\nCA model\nREER model\n(in percent of GDP)\nCA-Actual\n17.1\n20\n90\n  Cyclical contributions (from model) (-)\n0.9\n  Natural disasters and conflicts (-)\n-1.1\n10\nAdjusted CA\n17.3\n60\nCA Norm (from model)\n15.4\n0\nCA Gap\n2.0\n-4.7\n30\nCA (% of GDP)\n  o/w Relative policy gap\n2.0\n-10\nElasticity\n-0.3\nOil prices (right, US$ per barrel)\nREER Gap (in percent)\n-5.6\n13.6\n-20\n0\n1/ Based on the EBA-lite 3.0 methodology.\n18\n20\n22\n24\n26\n28\n30 | ",
+        "path": "data/processed/tables\\table_30.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 31,
+        "summary": "Assessment. A lack of detailed information on the nature of financial flows complicates the analysis of \nQatar’s financial account. The strong foreign asset position, including the QIA’s estimated sizable assets, \nlimits risks and vulnerabilities related to capital flows. Declines in commercial banks’ foreign liabilities have \nreduced financial stability risks. | ",
+        "path": "data/processed/tables\\table_31.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 32,
+        "summary": "Figure III.1. Qatar: Nowcasting Concept \nSource: IMF staff calculations. |  |  | ",
+        "path": "data/processed/tables\\table_32.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 33,
+        "summary": "Figure III. 3. Qatar: Machine Learning Process for Qatar \nSource: IMF staff calculations. | ",
+        "path": "data/processed/tables\\table_33.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 34,
+        "summary": "Figure III. 4. Qatar: Model Selection \n(Out of sample performance) \nSource: IMF staff calculations. |  | ",
+        "path": "data/processed/tables\\table_34.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 35,
+        "summary": "Figure III. 5. Qatar: Non-hydrocarbon GDP Growth: Actual and Nowcasting Results 1/ \n(Percent, year on year) \n10\n6\n2\n-2\n-6\n-10\n2019\n2020\n2021\n2022\n2023\n2024\nSources: Haver, CEIC and IMF staff calculations. \n1/ Nowcasting up to Q3 2024. |  | ",
+        "path": "data/processed/tables\\table_35.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 36,
+        "summary": "Figure IV. 2. Qatar: Debt Coverage and Disclosures \nCG\nGG\nNFPS\nCPS\nOther\n1. Debt coverage in the DSA: 1/\nNo\n1a. If central government, are non-central government entities insignificant?\n2. Subsectors included in the chosen coverage in (1) above:\n3. Instrument coverage:\nCurrency \nDebt \nOth acct. \nLoans\n& deposits\nsecurities\npayable 2/\nBasis of recording\nValuation of debt stock\n4. Accounting principles:\nMarket \nNon-cash \nNominal \nFace value \nCash basis\nvalue 7/\nbasis 4/\nvalue 5/\n6/\nConsolidated\nNon-consolidated\n5. Debt consolidation across sectors:\nColor code: █ chosen coverage     █ Missing from recommended coverage     █ Not applicable |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_36.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 37,
+        "summary": "Figure IV. 3. Qatar: Reporting on Intra-Government Debt Holdings  \nBudget. \nExtra-\nSocial \nHolder\nNonfin. \nCentral \nOth. pub. \nState govt.\nLocal govt.\ncentral \nbudget. \nsecurity \npub. corp.\nbank\nfin corp\nIssuer\ngovt\nfunds \nfunds \nTotal\n0\n0\n0\n0\n0\n0\n0\n0\n1/ CG=Central government; GG=General government; NFPS=Nonfinancial public sector; PS=Public sector. \n2/ Stock of arrears could be used as a proxy in the absence of accrual data on other accounts payable. \n3/ Insurance, Pension, and Standardized Guarantee Schemes, typically including government employee pension liabilities. \n4/ Includes accrual recording, commitment basis, due for payment, etc. \n5/ Nominal value at any moment in time is the amount the debtor owes to the creditor. It reflects the value of the instrument at creation and subsequent \neconomic flows (such as transactions, exchange rate, and other valuation changes other than market price changes, and other volume changes). \n6/ The face value of a debt instrument is the undiscounted amount of principal to be paid at (or before) maturity. \n7/ Market value of debt instruments is the value as if they were acquired in market transactions on the balance sheet reporting date (reference date). Only \ntraded debt securities have observed market values.\nCommentary: The fiscal data cover the central government. Staff continues to encourage the authorities that the coverage be expanded to include the broader public \nsector and the QIA. |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_37.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 38,
+        "summary": "Figure IV. 4. Qatar: Public Debt Structure Indicators \nDebt by Currency (Percent of GDP) \n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nNote: The perimeter shown is central government.\nPublic Debt by Holder (Percent of GDP)\n100\n80\n60\n40\n20\n0\n100\n80\n60\n40\n20\n0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_38.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 39,
+        "summary": "Figure IV. 6. Qatar: Contribution to Change in Public Debt  \n(Percent of GDP)\n80\n50\n40\n30\n20\n10\n0\n-10\n-20\nChange in public\n-30\nthe projection\ndebt\n2014\n2016\n2018\n2020\n2022\n2024\n2026\n2028\n2030\n2032\nperiod\nCommentary: The public debt ratio is projected to remain stable reflecting the sizeable primary surplus, stable economic conditions, \nand the objective of developing the domestic capital market. | Projection | 60\n40\n20\n0\n-20\n-40\n-60\n-80\nCumulative in |  | ",
+        "path": "data/processed/tables\\table_39.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 40,
+        "summary": "Figure IV. 7. Qatar: Near-Term Risk Analysis \n0\nProb. of missed crisis, 2024-2025 (if stress not predicted): 0.0 pct.\nProb. of false alarm, 2024-2025 (if stress predicted): 83.1 pct.\nCommentary: Near-term risks are assessed to be low. |  | 0.6\n0.5\n0.4\n0.3\n0.2\n0.1 |  | ",
+        "path": "data/processed/tables\\table_40.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 41,
+        "summary": "Figure IV. 8. Qatar: Medium-Term Risk Assessment \nValue\nContrib 1/\nPercentile in peer group 2/\nFinal Fanchart (Percent of GDP)\nDebt fanchart module\n150\nFanchart width\n88.7\n1.3\n5-25 pct\n25-50 pct\n(percent of GDP)\n50-75 pct\nProbability of debt non-\n4.6\n0.0\n75-95 pct\n100\nstabilization (percent)\nActual\nTerminal debt-to-GDP x\n12.1\n0.3\ninstitutions index\n50\n0\n25\n50\n75\n100\n1.6\nDebt fanchart index (DFI)\n0\n2019\n2021\n2023\n2025\n2027\n2029\nRisk signal: 3/\nModerate\nGross financing needs (GFN) module\nGross Financing Needs (Percent of GDP)\n30\nAverage baseline GFN\n-1.7\n-0.6\nFinancing provided by banks\n(percent of GDP)\nActual\n20\nInitial Banks' claims on the \n15.5\n5.0\nBaseline\ngen. govt (pct bank assets)\nStress scenario\n10\nChg. In banks' claims in\n1.5\n0.5\nstress (pct banks' assets)\n0\n0\n25\n50\n75\n100\n5.0\nGFN financeability index (GFI)\n-10\n2025\n2027\n2029\n2019\n2021\n2023\nRisk signal: 4/\nLow\nTriggered stress tests (stress tests not activated in gray)\nBanking crisis\nCommodity prices\nExchange rate\nContingent liab.\nNatural disaster\nMedium-term risk analysis\nMedium-Term Index (Index Number)\nValue \n0.6\nValue\n(normalized)\nWeight\nContribution\n0.4\nDebt fanchart index \n1.6\n0.4\n0.5\n0.2\nGFN finaceability index \n5.0\n0.1\n0.5\n0.0\n0.2\n0.2\nMedium-term index\n0.0\nRisk signal: 5/\nLow\nFinal assessment: \nModerate\n2021\n2022\n2023\n2024\nMedium-term index\nLow risk\nProb. of missed crisis, 2024-2029, if stress not predicted: 9.1 pct.\nHigh risk\nProb. of false alarms, 2024-2029, if stress predicted: 48.9 pct.\nCommentary: Medium-term risks are assessed as low, consistent with the mechanical \"low\" signal. Gross financing needs under the stress scenario are \nsmall. Large net financial assets held by the sovereign wealth fund mitigate risks.\nSource: IMF staff estimates and projections.\n1/ See Annex IV of IMF, 2022, Staff Guidance Note on the Sovereign Risk and Debt Sustainability Framework for details on index calculation.\n2/ The comparison group is emerging markets, commodity exporter, surveillance.\n3/ The signal is low risk if the DFI is below 1.13; high risk if the DFI is above 2.08; and otherwise, it is moderate risk.\n4/ The signal is low risk if the GFI is below 7.6; high risk if the DFI is above 17.9; and otherwise, it is moderate risk.\n5/ The signal is low risk if the GFI is below 0.26; high risk if the DFI is above 0.40; and otherwise, it is moderate risk. | ",
+        "path": "data/processed/tables\\table_41.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 42,
+        "summary": "In percent\n-28\n-24\n-20\n-16\n-12\n-8\n-4\n12\n16\n20\n24\n28\n02468\n-7.5\n5y hist\n-6.5\n2024\n-5.5\n2025\n-4.5\n2026\n-3.5\n2027\n-2.5\n2028\n-1.5\n2029\n-0.5\n0.5\n1.5\n2.5\n3.5\n4.5\n5.5\n6.5\n7.5\nFigure IV. 9. Qatar: Realism of Baseline Assumptions \nt+1\nt+3\nt+5\nComparator Group:\nForecast Track Record 1/\nEmerging Markets,  Commodity Exporter,  \nPublic debt to GDP\nSurveillance\nPrimary deficit\nr - g\nColor Code:\n█ > 75th percentile\nExchange rate depreciation\nOptimistic\n█ 50-75th percentile\nSFA\n█ 25-50th percentile\nt+3\nt+5\nreal-time\nPessimistic\n█ < 25th percentile\nHistorical Output Gap Revisions 2/\nPublic Debt Creating Flows\nBond Issuances (Bars, debt issuances (RHS, \n(Percent of GDP)\n%GDP); lines, avg marginal interest rates (LHS, percent))\n5%\n20\n40\nPrimary deficit\n10\nReal interest rate\n20\nand relative inflation\n0\nReal GDP growth\n0%\n0\n-10\nExch. rate\n-20\n-20\ndepreciation\nResidual\n-5%\n0\nUS Treas.\n-30\n-40\nChange in public\nImplied spread,\nPast 5\nNext 5\nsector debt\nyears\nyears\nLaubach rule 4/\n3-Year Debt Reduction\n3-Year Adjustment in Cyclically-Adjusted\n(Percent of GDP)\nPrimary Balance (Percent of GDP)\n12\n12\npercentile  rank\n75.3\nDistribution 3/\npercentile rank 79\nDistribution 3/\n10\n3-year reduction\n10\n3-year debt reduction \n3-year adjustment above 75th \n3-year adjustment\nabove 75th percentile \nMax. 3-year reduction\n8\npercentile (2 ppts of GDP)\nMax. 3-year adjustment\n(5.9 ppts of GDP)\n6\n4\n2\n0\n0 4 8\nFiscal Adjustment and Possible NH-Growth Paths\nOverall Real GDP Growth\n(In percent)\n(Lines, real growth using multiplier (LHS); bars, fiscal adj. (RHS))\n10\n30\n9\n6\n3\n0\n-3\n-6\n-2\n-5\n2019 2020 2021 2022 2023 2024 2025 2026\nCommentary: The realism analysis does not point to any major concerns as the adjustment proposed by the authorities is not overly \noptimistic and in line with historical behavior.\nSource : IMF Staff.\n1/ Projections made in the October and April WEO vintage.\n2/ Calculated as the percentile rank of the country's output gap revisions (defined as the difference between real time/period ahead estimates. \n3/ Data cover annual obervations from 1990 to 2019 for MAC advanced and emerging economies. Percent of sample on vertical axis.\n4/ The Laubach (2009) rule is a linear rule assuming bond spreads increase by about 4 bps in response to a 1 ppt increase in the projected debt-to-\nGDP ratio. |  |  |  |  | 6\n5+ yr term\n1-5 yr term\n4\n<1 yr term\n2\nSpread vs 10-yr | ",
+        "path": "data/processed/tables\\table_42.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 43,
+        "summary": "2016\n2019\n2022\n2025\n2028\n2031\n2034\n2037\n2040\n2043\n2046\n2049\n2052\n2016\n2019\n2022\n2025\n2028\n2031\n2034\n2037\n2040\n2043\n2046\n2049\n2052\nFigure IV. 11. Qatar: Long-Term Risk Assessment: Large Amortization \nProjection\nVariable\nRisk Indication\nGFN-to-GDP ratio\nMedium-term extrapolation\nAmortization-to-GDP ratio\nAmortization\nGFN-to-GDP ratio\nMedium-term extrapolation with debt stabilizing \nAmortization-to-GDP ratio\nprimary balance\nAmortization\nGFN-to-GDP ratio\nHistorical average assumptions\nAmortization-to-GDP ratio\nAmortization\nOverall Risk Indication\nGFN-to-GDP Ratio\nTotal Public Debt-to-GDP Ratio\n15.0\n10.0\n5.0\n0.0\n-5.0\n0\n-10.0\nLong run projection\nLong run projection\nProjection\nProjection\nBaseline with t+5\nBaseline with t+5\nBaseline with t+5 and DSPB\nBaseline with t+5 and DSPB\nHistorical 10-year average\nHistorical 10-year average\nCommentary: Staff assesses that risks related to large amortization are low, consistent with the mechanical overall risk indication. The baseline \npath suggests that the debt ratio would remain low and stable, consistent with staff's separate analysis of the PIH benchmark to ensure \nintergenerational equity in the long run, discussed in the main text of this Staff Report. |  | 80\n60\n40 |  | ",
+        "path": "data/processed/tables\\table_43.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 44,
+        "summary": "plan to conduct and publish own sustainability study.\naround 10% of Qatar's total population. Key revisions made in 2023 enhanced the system's sustainability. The authorities \nCommentary: Staff assesses that risks from pension financing needs are low. The pension system covers Qatari nationals, \nWith pension cost increase\nWith pension cost increase\nBaseline: Custom\nBaseline: Custom\nProjection\nProjection\nLong run projection\nLong run projection\n-10\n-5\n20\n10\n15\n0%\n1%\n2%\n3%\n \n0\n5\n2016\n2019\n2022\n2025\n \n2028\n2031\n2034\n2037\n2040\n2043\n2046\n2049\n2052\n0\n2016\n2019\n2022\n2025\n2028\n2031\n2034\n2037\n2040\n2043\n2046\n2049\n2052 |  |  | GFN-to-GDP Ratio\nTotal Public Debt-to-GDP Ratio\nPension financing needs\nTotal benefits paid (per cent of GDP)\n2024\n2026\n2028\n2030\n2032\n2034\n2036\n2038\n2040\n2042\n2044\n2046\n2048\n2050\n2052\n2024\n2026\n2028\n2030\n2032\n2034\n2036\n2038\n2040\n2042\n2044\n2046\n2048\n2050\n2052 |  | Pension Financing Needs\nTotal Benefits Paid\n(pp of GDP per year)\n0.7%\n1.2%\npension assets positive for:\n50 years\nUntil 2100\nthe pension system to keep \nPermanent adjustment needed in",
+        "path": "data/processed/tables\\table_44.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 45,
+        "summary": "would have limited risks to the debt ratio.\nCommentary: Staff assesses that risks from slower production of natural gas than under the baseline to maintain reserves \nBaseline: Custom\nNatural Resources\nBaseline: Custom\nNatural Resources\n-10\n-5\n20\n40\n60\n10\n15\n80\nFigure IV. 13. Qatar: Natural Resources\n0\n5\n2016\n2019\n2022\n2025\n2028\n2031\n2034\n2037\n2040\n2043\n2046\n2049\n2052\n0\n2016\n2019\n2022\n2025\n2028\n2031\n2034\n2037\n2040\n2043\n2046\n2049\n2052 |  |  | GFN-to-GDP Ratio\nTotal Public Debt-to-GDP Ratio",
+        "path": "data/processed/tables\\table_45.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 46,
+        "summary": "Source of Risk and Likelihood \nExpected Impact if Risk is Realized \nPolicy Response |  | ",
+        "path": "data/processed/tables\\table_46.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 47,
+        "summary": "Source of Risk and Likelihood \nExpected Impact if Risk is Realized \nPolicy Response |  | ",
+        "path": "data/processed/tables\\table_47.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 48,
+        "summary": "Recommendations \nStatus | ",
+        "path": "data/processed/tables\\table_48.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 49,
+        "summary": "Table VII. 1. Qatar: Data Adequacy Assessment for Surveillance |  |  |  |  |  |  |  |  | ",
+        "path": "data/processed/tables\\table_49.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 50,
+        "summary": "Table VII. 3. Qatar: Table of Common Indicators Required for Surveillance",
+        "path": "data/processed/tables\\table_50.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 51,
+        "summary": "1.      \n2. | TA",
+        "path": "data/processed/tables\\table_51.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 52,
+        "summary": "SDR Million \nPercent Quota \nGeneral Resources Account",
+        "path": "data/processed/tables\\table_52.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 53,
+        "summary": "Forthcoming",
+        "path": "data/processed/tables\\table_53.csv",
+        "type": "table"
+    },
+    {
+        "table_id": 54,
+        "summary": "Department \nDate \nActivity",
+        "path": "data/processed/tables\\table_54.csv",
+        "type": "table"
+    }
+]
