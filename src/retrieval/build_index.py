@@ -2,62 +2,80 @@ import os
 import json
 import faiss
 import numpy as np
-import os
 from huggingface_hub import InferenceClient
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+import torch
 from dotenv import load_dotenv
 
-# ---------------- CONFIGURE HUGGINGFACE TOKEN ----------------
-
+# -------- LOAD ENV VARIABLES --------
 load_dotenv()
-HF_TOKEN = os.getenv("HF_TOKEN") # ensure this is set in your environment
+HF_TOKEN = os.getenv("HF_TOKEN")
 
+# -------- LOAD EMBEDDING CLIENT --------
 client = InferenceClient(token=HF_TOKEN)
 
+# -------- LOAD FAISS INDEX --------
+index = faiss.read_index("data/processed/faiss_index.bin")
+with open("data/processed/chunk_metadata.json", "r", encoding="utf-8") as f:
+    metadata = json.load(f)
 
-def load_chunks(path):
-    chunks = []
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            chunks.append(json.loads(line))
-    return chunks
-
-
-def embed_texts(texts):
-    embeddings = []
-    for text in texts:
-        response = client.feature_extraction(
-            text,  # <-- FIXED: positional argument
-            model="sentence-transformers/all-MiniLM-L6-v2"
-        )
-        embeddings.append(response)
-    return np.array(embeddings).astype("float32")
+# -------- LOCAL GENERATION MODEL --------
+tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-small")
+model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small")
 
 
-def build_faiss_index(chunks, index_path, metadata_path):
-    texts = [c["content"] for c in chunks]
-
-    print("Embedding text chunks... (This may take some time)")
-    embeddings = embed_texts(texts)
-
-    dimension = embeddings.shape[1]
-    index = faiss.IndexFlatL2(dimension)
-    index.add(embeddings)
-
-    faiss.write_index(index, index_path)
-
-    with open(metadata_path, "w", encoding="utf-8") as f:
-        json.dump(chunks, f, indent=4, ensure_ascii=False)
-
-    print("\nFAISS index built successfully.")
-    print(f"Total vectors stored: {index.ntotal}")
-
-
-if __name__ == "__main__":
-    chunks = load_chunks("data/processed/combined_chunks.jsonl")
-    os.makedirs("data/processed", exist_ok=True)
-
-    build_faiss_index(
-        chunks,
-        index_path="data/processed/faiss_index.bin",
-        metadata_path="data/processed/chunk_metadata.json"
+# -------- EMBEDDING FUNCTION --------
+def embed_query(text):
+    response = client.feature_extraction(
+        text,
+        model="sentence-transformers/all-MiniLM-L6-v2"
     )
+    return np.array(response).astype("float32")
+
+
+# -------- SEARCH RETRIEVAL --------
+def search_faiss(query, k=5):
+    query_vector = embed_query(query)
+    query_vector = np.expand_dims(query_vector, axis=0)
+
+    distances, indices = index.search(query_vector, k)
+
+    results = []
+    pages = []
+    for idx in indices[0]:
+        results.append(metadata[idx])
+        pages.append(metadata[idx].get("page"))
+
+    return results, pages
+
+
+# -------- GENERATE RAG ANSWER --------
+def generate_answer(query):
+    retrieved, pages = search_faiss(query)
+
+    context = "\n\n".join(
+        [f"[page {r.get('page')}] {r['content']}" for r in retrieved]
+    )
+
+    prompt = (
+        "Use the following CONTEXT to answer the QUESTION. "
+        "Only use facts from the context and cite page numbers.\n\n"
+        f"CONTEXT:\n{context}\n\n"
+        f"QUESTION: {query}\n\n"
+        "ANSWER:"
+    )
+
+    inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024)
+    outputs = model.generate(inputs["input_ids"], max_new_tokens=200)
+    answer = tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+    return answer, pages
+
+
+# -------- CLI MAIN --------
+if __name__ == "__main__":
+    q = input("Ask a question: ")
+    ans, pages = generate_answer(q)
+
+    print("\nANSWER:\n", ans)
+    print("\nREFERENCES (pages):", pages)
